@@ -2,6 +2,7 @@
 
 🚀 **Prime-Numbers Web App** is an interactive mathematical tool designed to **identify, analyze, and explore prime numbers** efficiently. This web app allows users to **check if a number is prime**, **generate prime sequences**, and **understand their properties** dynamically. 🧮  
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Prime-Numbers/)
 ---
 
 ## 🏆 Features  
