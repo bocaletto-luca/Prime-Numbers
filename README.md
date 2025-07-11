@@ -1,4 +1,5 @@
 # 🔢 Prime-Numbers Web App  
+#### Author: Bocaletto Luca
 
 🚀 **Prime-Numbers Web App** is an interactive mathematical tool designed to **identify, analyze, and explore prime numbers** efficiently. This web app allows users to **check if a number is prime**, **generate prime sequences**, and **understand their properties** dynamically. 🧮  
 
